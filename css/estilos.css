@@ -1,0 +1,54 @@
+header{background-color:#dddddd ;
+text-align: center;}
+
+h1{background-color: #BFBFBF;
+    word-spacing:30px;
+color:indianred;
+text-transform:uppercase;
+letter-spacing:7px;
+}
+h2{background-color: #BFBFBF;
+    word-spacing:10px;
+color:maroon;
+letter-spacing:7px;
+text-transform:uppercase;}
+
+
+footer{background-color:indianred;
+    height:80px;
+   color: white;
+font-size:30px;
+text-align:center;
+}
+
+
+
+.logos{ width: 35px; height: 35px;
+    vertical-align: middle; 
+}
+
+.foto{ width: 600px; height: 600px;
+    vertical-align: middle; 
+}
+
+
+
+
+span{font-weight: bold;
+    font-style: italic;
+}
+ul{font-size: 23px;
+    text-transform:uppercase;
+}
+dl{font-size: 23px;}
+main{font-family:Arial, Helvetica, sans-serif
+   
+    position= absolute;
+    top: 50%;
+    left: 50%;
+    padding: 50px 100px 50px 100px;
+}
+body{margin: 0;
+padding: 0;}
+p{margin-top: 100px;}
+
